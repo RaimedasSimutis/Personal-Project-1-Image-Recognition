@@ -9,3 +9,6 @@
 #misc
 .cache
 .vscode
+
+#API keys
+/src/API-keys
